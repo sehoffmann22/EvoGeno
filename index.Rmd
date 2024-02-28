@@ -2,8 +2,19 @@
 title: "My Repo Site"
 author: "Sophie Hoffmann"
 date: "2024-02-22"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
+    highlight: breezedark
+    
 ---
 
 # Sophie's Github Repo Page
+
+Welcome to Sophie's Page! It appears that there is not much here yet ... but there is more to come!
+
+Enjoy this picture of this orange and white cat - Sophie has a cat named Mango that looks very similar to this
+![Figure 1](download.jpg)
+
+
 
